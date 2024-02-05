@@ -1,6 +1,6 @@
 # Small Web App
 
-Welcome to the Small Web App repository! This web app contains several simple and useful daily tools to enhance your productivity and convenience. Explore the various apps available and discover how they can simplify your daily tasks.
+Welcome to the Small Web App repository! This web app contains several simple and useful daily tools created using HTML5, CSS3, And JavaScript to enhance your productivity and convenience. Explore the various apps available and discover how they can simplify your daily tasks.
 
 ## Overview
 
